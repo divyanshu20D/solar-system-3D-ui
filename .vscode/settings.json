@@ -1,0 +1,12 @@
+{
+  "editor.fontSize": 14,
+  "editor.fontFamily": "\"MonoLisa\",\"Fira Code\", Consolas, 'Courier New', monospace",
+  "editor.minimap.sectionHeaderFontSize": 9,
+  "editor.fontWeight": "350",
+  "terminal.integrated.fontFamily": "\"MonoLisa\",\"Fira Code\", Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontWeight": "350",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.cursorStyle": "line",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "cursor-less-dark"
+}
